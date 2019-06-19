@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1554106219 source:d:\stuff\универ\2 курс\2 sem\a&c\2\lab2\main.cpp
+	"TestClass.h"
+	<iostream>
+
+1554108492 source:d:\stuff\универ\2 курс\2 sem\a&c\2\lab2\src\node.cpp
+	"Node.h"
+
+1554105861 d:\stuff\универ\2 курс\2 sem\a&c\2\lab2\include\node.h
+	"Student.h"
+
+1549879861 d:\stuff\универ\2 курс\2 sem\a&c\2\lab2\include\student.h
+	<string>
+
+1549879861 source:d:\stuff\универ\2 курс\2 sem\a&c\2\lab2\src\student.cpp
+	"Student.h"
+	<iostream>
+
+1554108451 d:\stuff\универ\2 курс\2 sem\a&c\2\lab2\include\rbtree.h
+	"Node.h"
+	<vector>
+	<fstream>
+
+1554109074 source:d:\stuff\универ\2 курс\2 sem\a&c\2\lab2\src\rbtree.cpp
+	"RBTree.h"
+	<iostream>
+	<cmath>
+
+1554105886 d:\stuff\универ\2 курс\2 sem\a&c\2\lab2\include\testclass.h
+	"RBTree.h"
+	<vector>
+
+1554108546 source:d:\stuff\универ\2 курс\2 sem\a&c\2\lab2\src\testclass.cpp
+	"TestClass.h"
+	<iostream>
+	<fstream>
+
