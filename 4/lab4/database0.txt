@@ -1,0 +1,8 @@
+K-28	Ilvovskiy	Viktor	95.25	2
+K-28	Filonenko	Bogdan	88.25	8
+K-28	Karpyshyn	Olha	83.75	20
+K-29	Blagiy	Andriy	93.625	1
+K-29	Dzundza	Stas	92.875	4
+K-29	Hevorhyan	Artem	88.25	3
+K-29	Honcharuk	Anhelina	88.125	13
+K-29	Vilihurskiy	Artur	81

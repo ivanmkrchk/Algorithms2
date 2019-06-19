@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1554711692 source:d:\stuff\универ\2 курс\2 sem\a&c\5\lab5\main.cpp
+	<iostream>
+	"TestClass.h"
+
+1554711462 source:d:\stuff\универ\2 курс\2 sem\a&c\5\lab5\src\node.cpp
+	"Node.h"
+
+1554711470 d:\stuff\универ\2 курс\2 sem\a&c\5\lab5\include\node.h
+	"Student.h"
+
+1549879861 d:\stuff\универ\2 курс\2 sem\a&c\5\lab5\include\student.h
+	<string>
+
+1554109241 source:d:\stuff\универ\2 курс\2 sem\a&c\5\lab5\src\rbtree.cpp
+	"RBTree.h"
+	<iostream>
+	<cmath>
+
+1554108451 d:\stuff\универ\2 курс\2 sem\a&c\5\lab5\include\rbtree.h
+	"Node.h"
+	<vector>
+	<fstream>
+
+1549879861 source:d:\stuff\универ\2 курс\2 sem\a&c\5\lab5\src\student.cpp
+	"Student.h"
+	<iostream>
+
+1554712084 source:d:\stuff\универ\2 курс\2 sem\a&c\5\lab5\src\testclass.cpp
+	"TestClass.h"
+	<iostream>
+	<fstream>
+
+1554711449 d:\stuff\универ\2 курс\2 sem\a&c\5\lab5\include\testclass.h
+	"PersistRBTree.h"
+	<vector>
+
+1554717227 source:d:\stuff\универ\2 курс\2 sem\a&c\5\lab5\src\persistrbtree.cpp
+	"PersistRBTree.h"
+	<iostream>
+	<cmath>
+
+1554711574 d:\stuff\универ\2 курс\2 sem\a&c\5\lab5\include\persistrbtree.h
+	"Node.h"
+	<vector>
+

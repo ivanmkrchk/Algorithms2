@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1552881539 source:d:\stuff\универ\2 курс\2 sem\a&c\4\lab4\main.cpp
+	"TestClass.h"
+	<iostream>
+
+1552898554 source:d:\stuff\универ\2 курс\2 sem\a&c\4\lab4\src\node.cpp
+	"Node.h"
+	<iostream>
+
+1552870142 d:\stuff\универ\2 курс\2 sem\a&c\4\lab4\include\node.h
+	"Student.h"
+
+1552883436 d:\stuff\универ\2 курс\2 sem\a&c\4\lab4\include\student.h
+	<string>
+
+1549876261 source:d:\stuff\универ\2 курс\2 sem\a&c\4\lab4\src\student.cpp
+	"Student.h"
+	<iostream>
+
+1552901908 source:d:\stuff\универ\2 курс\2 sem\a&c\4\lab4\src\optbinsearchtree.cpp
+	"OptBinSearchTree.h"
+	<iostream>
+	<algorithm>
+
+1552899927 d:\stuff\универ\2 курс\2 sem\a&c\4\lab4\include\optbinsearchtree.h
+	"Node.h"
+	<vector>
+
+1552901993 source:d:\stuff\универ\2 курс\2 sem\a&c\4\lab4\src\testclass.cpp
+	"TestClass.h"
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<time.h>
+
+1552883528 d:\stuff\универ\2 курс\2 sem\a&c\4\lab4\include\testclass.h
+	"OptBinSearchTree.h"
+	<vector>
+

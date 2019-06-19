@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1551689464 source:d:\stuff\универ\2 курс\2 sem\a&c\3\lab3\main.cpp
+	<iostream>
+	"TestClass.h"
+
+1549876261 source:d:\stuff\универ\2 курс\2 sem\a&c\3\lab3\src\student.cpp
+	"Student.h"
+	<iostream>
+
+1549876261 d:\stuff\универ\2 курс\2 sem\a&c\3\lab3\include\student.h
+	<string>
+
+1551692513 source:d:\stuff\универ\2 курс\2 sem\a&c\3\lab3\src\node.cpp
+	"Node.h"
+
+1551675869 d:\stuff\универ\2 курс\2 sem\a&c\3\lab3\include\node.h
+	"Student.h"
+
+1551692856 source:d:\stuff\универ\2 курс\2 sem\a&c\3\lab3\src\splaytree.cpp
+	"SplayTree.h"
+	<iostream>
+
+1551690168 d:\stuff\универ\2 курс\2 sem\a&c\3\lab3\include\splaytree.h
+	"Node.h"
+
+1551693025 source:d:\stuff\универ\2 курс\2 sem\a&c\3\lab3\src\testclass.cpp
+	"TestClass.h"
+	<iostream>
+	<fstream>
+
+1551692600 d:\stuff\универ\2 курс\2 sem\a&c\3\lab3\include\testclass.h
+	"SplayTree.h"
+	<vector>
+

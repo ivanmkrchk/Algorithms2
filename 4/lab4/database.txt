@@ -1,0 +1,24 @@
+K-28	Kushnirenko	Mariia	96.625
+K-28	Ilvovskiy	Viktor	95.25	2
+K-28	Yaroshenko	Valeriia	93.875
+K-28	Shatokhin	Maksim	90.75
+K-28	Mysechko	Artemiy	90.5
+K-28	Oliynyk	Mykyta	89.75
+K-28	Velychko	Taisiia	89.375
+K-28	Yarema	Sergiy	88.875	
+K-28	Filonenko	Bogdan	88.25	8
+K-28	Sharaev	Tymofiy	87.875
+K-28	Tochanenko	Vladislav	85.25
+K-28	Karpyshyn	Olha	83.75	20
+K-29	Kmett	Oleksandra	97
+K-29	Chudinova	Maiia	96.875
+K-29	Nortman	Yuliia	93.75
+K-29	Blagiy	Andriy	93.625	1
+K-29	Dzundza	Stas	92.875	4
+K-29	Pilipets	Glib	92
+K-29	Gaiday	Yaroslav	89.625
+K-29	Hryn	Alina	89.125
+K-29	Hevorhyan	Artem	88.25	3
+K-29	Honcharuk	Anhelina	88.125	13
+K-29	Yuzefovich	Anastasiya	83.25
+K-29	Vilihurskiy	Artur	81
