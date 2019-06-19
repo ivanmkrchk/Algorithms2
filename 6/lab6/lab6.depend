@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1555280573 source:d:\stuff\универ\2 курс\2 sem\a&c\6\lab6\main.cpp
+	"TestClass.h"
+	<iostream>
+
+1549879861 source:d:\stuff\универ\2 курс\2 sem\a&c\6\lab6\src\student.cpp
+	"Student.h"
+	<iostream>
+
+1552887036 d:\stuff\универ\2 курс\2 sem\a&c\6\lab6\include\student.h
+	<string>
+
+1555275752 source:d:\stuff\универ\2 курс\2 sem\a&c\6\lab6\src\testclass.cpp
+	"TestClass.h"
+	<iostream>
+	<fstream>
+
+1555275752 d:\stuff\универ\2 курс\2 sem\a&c\6\lab6\include\testclass.h
+	"BPlusTree.h"
+	<vector>
+
+1554672135 d:\stuff\универ\2 курс\2 sem\a&c\6\lab6\include\binomialheap.h
+	"Node.h"
+
+1555320361 d:\stuff\универ\2 курс\2 sem\a&c\6\lab6\include\node.h
+	"Student.h"
+	<vector>
+
+1555321272 source:d:\stuff\универ\2 курс\2 sem\a&c\6\lab6\src\bplustree.cpp
+	"BPlusTree.h"
+	"Student.h"
+	<iostream>
+
+1555280573 d:\stuff\универ\2 курс\2 sem\a&c\6\lab6\include\bplustree.h
+	"Node.h"
+
+1555320383 source:d:\stuff\универ\2 курс\2 sem\a&c\6\lab6\src\node.cpp
+	"Node.h"
+	<iostream>
+
